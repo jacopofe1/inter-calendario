@@ -33,8 +33,8 @@ BEGIN:VEVENT
 UID:inter-sa-20250913@inter-calendar
 DTSTART:20250913T160000Z
 DTEND:20250913T180000Z
-SUMMARY:⚽️ [Serie A] Juventus vs Inter
-DESCRIPTION:🏆 Serie A - Giornata 3 | Derby d'Italia 🔥\nJuventus Turin 4 - 3 Inter Milano\n✅ Risultato Finale
+SUMMARY:⚽️ [Serie A] Juventus vs Inter 🔥
+DESCRIPTION:🏆 Serie A - Giornata 3\nJuventus Turin 4 - 3 Inter Milano\n✅ Risultato Finale
 LOCATION:Allianz Stadium, Torino
 STATUS:CONFIRMED
 END:VEVENT
@@ -44,7 +44,7 @@ UID:inter-cl-20250917@inter-calendar
 DTSTART:20250917T190000Z
 DTEND:20250917T210000Z
 SUMMARY:⚽️ [Champions League] Ajax vs Inter
-DESCRIPTION:🏆 UEFA Champions League - Fase a gironi\nAjax Amsterdam 0 - 2 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:🏆 UEFA Champions League\nAjax Amsterdam 0 - 2 Inter Milano\n✅ Risultato Finale
 LOCATION:Johan Cruyff Arena, Amsterdam
 STATUS:CONFIRMED
 END:VEVENT
@@ -74,7 +74,7 @@ UID:inter-cl-20250930@inter-calendar
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
 SUMMARY:⚽️ [Champions League] Inter vs Slavia Praga
-DESCRIPTION:🏆 UEFA Champions League - Fase a gironi\nInter Milano 3 - 0 Slavia Prague\n✅ Risultato Finale
+DESCRIPTION:🏆 UEFA Champions League\nInter Milano 3 - 0 Slavia Prague\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -104,7 +104,7 @@ UID:inter-cl-20251021@inter-calendar
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
 SUMMARY:⚽️ [Champions League] Union SG vs Inter
-DESCRIPTION:🏆 UEFA Champions League - Fase a gironi\nUnion Saint-Gilloise 0 - 4 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:🏆 UEFA Champions League\nUnion Saint-Gilloise 0 - 4 Inter Milano\n✅ Risultato Finale
 LOCATION:Lotto Park, Bruxelles
 STATUS:CONFIRMED
 END:VEVENT
@@ -115,7 +115,7 @@ DTSTART:20251025T160000Z
 DTEND:20251025T180000Z
 SUMMARY:⚽️ [Serie A] Napoli vs Inter
 DESCRIPTION:🏆 Serie A - Giornata 8\nNapoli 3 - 1 Inter Milano\n✅ Risultato Finale
-LOCATION:Stadio Diego Armando Maradona, Napoli
+LOCATION:Stadio Maradona, Napoli
 STATUS:CONFIRMED
 END:VEVENT
 
@@ -144,7 +144,7 @@ UID:inter-cl-20251105@inter-calendar
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
 SUMMARY:⚽️ [Champions League] Inter vs Kairat
-DESCRIPTION:🏆 UEFA Champions League - Fase a gironi\nInter Milano 2 - 1 FC Kairat Almaty\n✅ Risultato Finale
+DESCRIPTION:🏆 UEFA Champions League\nInter Milano 2 - 1 FC Kairat Almaty\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -174,7 +174,7 @@ UID:inter-cl-20251126@inter-calendar
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
 SUMMARY:⚽️ [Champions League] Atletico Madrid vs Inter
-DESCRIPTION:🏆 UEFA Champions League - Fase a gironi\nAtletico Madrid 2 - 1 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:🏆 UEFA Champions League\nAtletico Madrid 2 - 1 Inter Milano\n✅ Risultato Finale
 LOCATION:Estadio Metropolitano, Madrid
 STATUS:CONFIRMED
 END:VEVENT
@@ -214,7 +214,7 @@ UID:inter-cl-20251209@inter-calendar
 DTSTART:20251209T200000Z
 DTEND:20251209T220000Z
 SUMMARY:⚽️ [Champions League] Inter vs Liverpool
-DESCRIPTION:🏆 UEFA Champions League - Fase a gironi\nInter Milano 0 - 1 Liverpool FC\n✅ Risultato Finale
+DESCRIPTION:🏆 UEFA Champions League\nInter Milano 0 - 1 Liverpool FC\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -254,7 +254,7 @@ UID:inter-cl-20260120@inter-calendar
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
 SUMMARY:⚽️ [Champions League] Inter vs Arsenal
-DESCRIPTION:🏆 UEFA Champions League - Fase a gironi\nInter Milano 1 - 3 Arsenal FC\n✅ Risultato Finale
+DESCRIPTION:🏆 UEFA Champions League\nInter Milano 1 - 3 Arsenal FC\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -274,7 +274,7 @@ UID:inter-cl-20260128@inter-calendar
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
 SUMMARY:⚽️ [Champions League] Borussia Dortmund vs Inter
-DESCRIPTION:🏆 UEFA Champions League - Fase a gironi\nBorussia Dortmund 0 - 2 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:🏆 UEFA Champions League\nBorussia Dortmund 0 - 2 Inter Milano\n✅ Risultato Finale
 LOCATION:Signal Iduna Park, Dortmund
 STATUS:CONFIRMED
 END:VEVENT
@@ -484,7 +484,7 @@ UID:inter-sa-20260524@inter-calendar
 DTSTART:20260524T130000Z
 DTEND:20260524T150000Z
 SUMMARY:⚽️ [Serie A] Bologna vs Inter
-DESCRIPTION:🏆 Serie A - Giornata 38 (ultima giornata)\nBologna FC vs Inter Milano\n📅 Partita in programma
+DESCRIPTION:🏆 Serie A - Giornata 38 (ultima)\nBologna FC vs Inter Milano\n📅 Partita in programma
 LOCATION:Stadio Renato Dall'Ara, Bologna
 STATUS:TENTATIVE
 END:VEVENT
