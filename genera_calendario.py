@@ -2,7 +2,13 @@ import anthropic
 import os
 import datetime
 
-client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
+api_key = os.environ.get("ANTHROPIC_API_KEY")
+if not api_key:
+    raise ValueError("ANTHROPIC_API_KEY non trovata nei secrets!")
+
+print(f"✅ API Key trovata: {api_key[:10]}...")
+
+client = anthropic.Anthropic(api_key=api_key)
 
 oggi = datetime.date.today().strftime("%d/%m/%Y")
 
@@ -41,7 +47,7 @@ COLOR:0070B5
 print("📡 Chiamo Claude per aggiornare il calendario...")
 
 message = client.messages.create(
-    model="claude-opus-4-6",
+    model="claude-haiku-4-5-20251001",
     max_tokens=8096,
     messages=[
         {
