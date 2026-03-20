@@ -9,7 +9,7 @@ UID:{uid}
 DTSTART:{dtstart}
 DTEND:{dtend}
 SUMMARY:{summary}
-DESCRIPTION:{description}
+DESCRIPTION:⚫️🔵 DAI NOI!\\n\\n{description}
 LOCATION:{location}
 STATUS:{status}
 END:VEVENT"""
@@ -102,4 +102,4 @@ with open(output_path, "w", encoding="utf-8") as f:
 
 print(f"✅ Calendario aggiornato salvato - {oggi.strftime('%d/%m/%Y')}")
 print(f"📅 Totale partite: {len(partite)}")
-print(f"🏠 Casa | ✈️ Trasferta")
+print(f"🏠 Casa | ✈️ Trasferta | ⚫️🔵 DAI NOI!")
