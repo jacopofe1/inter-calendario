@@ -26,17 +26,19 @@ PRIMA usa il web search per cercare:
 
 POI genera il file ICS con i dati aggiornati che hai trovato.
 
-REGOLE:
+REGOLE FONDAMENTALI:
 - Includi Serie A, Champions League, Coppa Italia
 - Partite giocate: STATUS:CONFIRMED con risultato reale
-- Partite future: STATUS:TENTATIVE
+- Partite future confermate: STATUS:TENTATIVE
 - NON includere partite non confermate
 - Casa = 🏠, Trasferta = ✈️
 - Derby (Milan, Juventus) = aggiungi 🔥
 - DESCRIPTION inizia sempre con: ⚫️🔵 DAI NOI!\\n\\n
-- Ogni SUMMARY inizia con icona casa/trasferta seguita da [Competizione]
+- Gli orari nel file ICS devono essere in UTC (sottrai 1 ora in inverno, 2 ore in estate rispetto all'ora italiana)
+- Nel SUMMARY scrivi SEMPRE il nome completo delle squadre, MAI abbreviazioni come MD30 o simili
+- Formato SUMMARY: 🏠 [Serie A] Inter vs NomeSquadra OPPURE ✈️ [Serie A] NomeSquadra vs Inter
 
-FORMATO OBBLIGATORIO - inizia ESATTAMENTE così:
+FORMATO OBBLIGATORIO - inizia ESATTAMENTE così senza nulla prima:
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Inter Milano Calendario Completo//IT
@@ -49,6 +51,17 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 COLOR:0070B5
 X-LAST-UPDATED:{oggi}
 
+ESEMPIO EVENTO CORRETTO:
+BEGIN:VEVENT
+UID:inter-sa-20260322@inter-calendar
+DTSTART:20260322T194500Z
+DTEND:20260322T214500Z
+SUMMARY:✈️ [Serie A] Fiorentina vs Inter
+DESCRIPTION:⚫️🔵 DAI NOI!\\n\\n🏆 Serie A - Giornata 31\\nACF Fiorentina 1 - 1 Inter Milano\\n✅ Risultato Finale
+LOCATION:Stadio Artemio Franchi, Firenze
+STATUS:CONFIRMED
+END:VEVENT
+
 Genera SOLO il file ICS completo. Nessun testo prima o dopo. Nessun markdown. Nessun backtick."""
 
 print("📡 Chiamo Claude con web search...")
@@ -57,7 +70,7 @@ response = requests.post(
     "https://api.anthropic.com/v1/messages",
     headers=headers,
     json={
-        "model": "claude-haiku-4-5-20251001",
+        "model": "claude-sonnet-4-20250514",
         "max_tokens": 8096,
         "tools": [
             {
