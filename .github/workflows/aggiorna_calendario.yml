@@ -1,0 +1,35 @@
+name: Aggiorna Calendario Inter
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: pip install requests
+
+      - name: Genera calendario aggiornato
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python genera_calendario.py
+
+      - name: Salva il calendario aggiornato
+        run: |
+          git config user.name "Inter Calendar Bot"
+          git config user.email "bot@inter-calendario"
+          git add Inter_Milano_Calendario_2526.ics
+          git diff --cached --quiet || git commit -m "🔄 Calendario aggiornato - $(date '+%d/%m/%Y')"
+          git push
