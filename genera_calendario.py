@@ -1,8 +1,5 @@
 import os
-import datetime
 import requests
-
-oggi = datetime.date.today()
 
 RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY")
 print(f"API Key presente: {bool(RAPIDAPI_KEY)}")
@@ -14,8 +11,10 @@ HEADERS = {
 
 BASE_URL = "https://free-api-live-football-data.p.rapidapi.com"
 
-# Test connessione
-print("Test connessione...")
-r = requests.get(f"{BASE_URL}/football-get-all-leagues", headers=HEADERS)
+# Cerca Inter Milano
+print("Cerco Inter Milano...")
+r = requests.get(f"{BASE_URL}/football-search-all-teams", headers=HEADERS, params={"term": "Inter"})
 print(f"Status: {r.status_code}")
-print(r.json())
+data = r.json()
+for team in data.get("response", {}).get("teams", []):
+    print(f"ID: {team.get('id')} - Nome: {team.get('name')} - Paese: {team.get('country')}")
