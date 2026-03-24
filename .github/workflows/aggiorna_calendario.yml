@@ -23,7 +23,7 @@ jobs:
 
       - name: Genera calendario aggiornato
         env:
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python genera_calendario.py
 
       - name: Salva il calendario aggiornato
