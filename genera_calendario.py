@@ -124,7 +124,6 @@ data = response.json()
 if response.status_code == 200:
     ics_content = data["content"][0]["text"]
     
-    # Pulizia
     if "```" in ics_content:
         lines = ics_content.split("\n")
         lines = [l for l in lines if not l.startswith("```")]
