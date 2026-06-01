@@ -8,14 +8,14 @@ X-WR-CALDESC:Serie A | Champions League | Coppa Italia
 X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 COLOR:0070B5
-X-LAST-UPDATED:25/05/2026
+X-LAST-UPDATED:01/06/2026
 
 BEGIN:VEVENT
 UID:inter-sa-20250825@inter-calendar
 DTSTART:20250825T184500Z
 DTEND:20250825T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Torino
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 1\nInter Milano 5 - 0 Torino FC\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 1\nInter 5 - 0 Torino\n✅ Risultato Finale\nBastoni, Thuram (2), Martínez, Bonny
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -25,7 +25,7 @@ UID:inter-sa-20250831@inter-calendar
 DTSTART:20250831T184500Z
 DTEND:20250831T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Udinese
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 2\nInter Milano 1 - 2 Udinese Calcio\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 2\nInter 1 - 2 Udinese\n❌ Sconfitta
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -34,299 +34,279 @@ BEGIN:VEVENT
 UID:inter-sa-20250913@inter-calendar
 DTSTART:20250913T160000Z
 DTEND:20250913T180000Z
-SUMMARY:✈️ [Serie A] Juventus vs Inter 🔥
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 3\nJuventus 2 - 1 Inter Milano\n✅ Risultato Finale\n🔥 Big Match
-LOCATION:Allianz Stadium, Torino
+SUMMARY:✈️🔥 [Serie A] Juventus vs Inter
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 3\nJuventus 2 - 1 Inter\n❌ Sconfitta\nKelly (J), Calhanoglu (I), Yildiz (J)
+LOCATION:Juventus Stadium, Torino
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20250921@inter-calendar
-DTSTART:20250921T180000Z
-DTEND:20250921T200000Z
+DTSTART:20250921T160000Z
+DTEND:20250921T180000Z
 SUMMARY:🏠 [Serie A] Inter vs Sassuolo
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A\nInter Milano vs Sassuolo\n⌚ Prossima partita
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 4\nInter vs Sassuolo\n📅 Partita da giocare
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20250928@inter-calendar
-DTSTART:20250928T180000Z
-DTEND:20250928T200000Z
+DTSTART:20250928T160000Z
+DTEND:20250928T180000Z
 SUMMARY:✈️ [Serie A] Cagliari vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A\nCagliari vs Inter Milano\n⌚ Partita programmata
-LOCATION:Sardegna Arena, Cagliari
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 5\nCagliari vs Inter\n📅 Partita da giocare
+LOCATION:Stadio Sant'Elia, Cagliari
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251005@inter-calendar
-DTSTART:20251005T180000Z
-DTEND:20251005T200000Z
+DTSTART:20251005T160000Z
+DTEND:20251005T180000Z
 SUMMARY:🏠 [Serie A] Inter vs Cremonese
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A\nInter Milano vs Cremonese\n⌚ Partita programmata
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 6\nInter vs Cremonese\n📅 Partita da giocare
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251019@inter-calendar
-DTSTART:20251019T180000Z
-DTEND:20251019T200000Z
+DTSTART:20251019T160000Z
+DTEND:20251019T180000Z
 SUMMARY:✈️ [Serie A] Roma vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A\nRoma vs Inter Milano\n⌚ Partita programmata
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 7\nRoma vs Inter\n📅 Partita da giocare
 LOCATION:Stadio Olimpico, Roma
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251026@inter-calendar
-DTSTART:20251026T180000Z
-DTEND:20251026T200000Z
+DTSTART:20251026T160000Z
+DTEND:20251026T180000Z
 SUMMARY:✈️ [Serie A] Napoli vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A\nNapoli vs Inter Milano\n⌚ Partita programmata
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 8\nNapoli vs Inter\n📅 Partita da giocare
 LOCATION:Stadio Diego Armando Maradona, Napoli
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251029@inter-calendar
-DTSTART:20251029T194500Z
-DTEND:20251029T214500Z
+DTSTART:20251029T174500Z
+DTEND:20251029T194500Z
 SUMMARY:🏠 [Serie A] Inter vs Fiorentina
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A\nInter Milano vs Fiorentina\n⌚ Partita programmata
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 9\nInter 1 - 1 Fiorentina\n⚖️ Pareggio
 LOCATION:Stadio Giuseppe Meazza, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251102@inter-calendar
-DTSTART:20251102T190000Z
-DTEND:20251102T210000Z
+DTSTART:20251102T174500Z
+DTEND:20251102T194500Z
 SUMMARY:✈️ [Serie A] Hellas Verona vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 11\nHellas Verona 1 - 2 Inter Milano\n✅ Risultato Finale
-LOCATION:Stadio Bentegodi, Verona
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 10\nHellas Verona 2 - 2 Inter\n⚖️ Pareggio\nZieliński (I), Giovane (V), Frese auto (I)
+LOCATION:Stadio Marcantonio Bentegodi, Verona
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251109@inter-calendar
-DTSTART:20251109T190000Z
-DTEND:20251109T210000Z
+DTSTART:20251109T174500Z
+DTEND:20251109T194500Z
 SUMMARY:🏠 [Serie A] Inter vs Lazio
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 12\nInter Milano 2 - 0 Lazio\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 11\nInter 2 - 0 Lazio\n✅ Vittoria
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251123@inter-calendar
-DTSTART:20251123T190000Z
-DTEND:20251123T210000Z
-SUMMARY:🏠 [Serie A] Inter vs Milan 🔥
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 13 - Derby di Milano\nInter Milano 0 - 1 Milan\n✅ Risultato Finale\n🔥 Derby della Madonnina
+DTSTART:20251123T174500Z
+DTEND:20251123T194500Z
+SUMMARY:🏠🔥 [Serie A] Inter vs Milan
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 12 - DERBY!\nInter 0 - 1 Milan\n❌ Sconfitta\nPulisic (M)
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251130@inter-calendar
-DTSTART:20251130T190000Z
-DTEND:20251130T210000Z
+DTSTART:20251130T174500Z
+DTEND:20251130T194500Z
 SUMMARY:✈️ [Serie A] Pisa vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 14\nPisa vs Inter Milano\n⌚ Partita programmata
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 13\nPisa vs Inter\n📅 Partita da giocare
 LOCATION:Arena Garibaldi, Pisa
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-sa-20251207@inter-calendar
-DTSTART:20251207T190000Z
-DTEND:20251207T210000Z
-SUMMARY:🏠 [Serie A] Inter vs Como
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 15\nInter Milano 4 - 3 Como\n✅ Risultato Finale
+UID:inter-ci-20251203@inter-calendar
+DTSTART:20251203T190000Z
+DTEND:20251203T210000Z
+SUMMARY:🏠 [Coppa Italia] Inter vs Venezia
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Ottavi di finale\nInter 5 - 1 Venezia\n✅ Qualificazione ai Quarti\nDiouf (I), Esposito (I), Thuram 2 (I)
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-sa-20251214@inter-calendar
-DTSTART:20251214T190000Z
-DTEND:20251214T210000Z
-SUMMARY:✈️ [Serie A] Genoa vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 16\nGenoa vs Inter Milano\n⌚ Partita programmata
-LOCATION:Stadio Luigi Ferraris, Genova
+UID:inter-sa-20251207@inter-calendar
+DTSTART:20251207T174500Z
+DTEND:20251207T194500Z
+SUMMARY:🏠 [Serie A] Inter vs Como
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 14\nInter vs Como\n📅 Partita da giocare
+LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-sa-20251228@inter-calendar
-DTSTART:20251228T184500Z
-DTEND:20251228T204500Z
-SUMMARY:✈️ [Serie A] Atalanta vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 18\nAtalanta 1 - 1 Inter Milano\n✅ Risultato Finale
-LOCATION:Gewiss Stadium, Bergamo
-STATUS:CONFIRMED
+UID:inter-sa-20251214@inter-calendar
+DTSTART:20251214T093000Z
+DTEND:20251214T113000Z
+SUMMARY:✈️ [Serie A] Lecce vs Inter
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 15\nLecce vs Inter\n📅 Partita da giocare
+LOCATION:Stadio Via del Mare, Lecce
+STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-sa-20260104@inter-calendar
-DTSTART:20260104T184500Z
-DTEND:20260104T204500Z
-SUMMARY:🏠 [Serie A] Inter vs Bologna
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 18\nInter Milano 3 - 3 Bologna\n✅ Risultato Finale
+UID:inter-sa-20251221@inter-calendar
+DTSTART:20251221T174500Z
+DTEND:20251221T194500Z
+SUMMARY:🏠 [Serie A] Inter vs Atalanta
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 16\nInter 1 - 1 Atalanta\n⚖️ Pareggio
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-sa-20260107@inter-calendar
-DTSTART:20260107T194500Z
-DTEND:20260107T214500Z
+UID:inter-sa-20251228@inter-calendar
+DTSTART:20251228T174500Z
+DTEND:20251228T194500Z
+SUMMARY:✈️ [Serie A] Atalanta vs Inter
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 17\nAtalanta vs Inter\n📅 Partita da giocare
+LOCATION:Gewiss Stadium, Bergamo
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:inter-sa-20260103@inter-calendar
+DTSTART:20260103T174500Z
+DTEND:20260103T194500Z
+SUMMARY:🏠 [Serie A] Inter vs Bologna
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 18\nInter vs Bologna\n📅 Partita da giocare
+LOCATION:Stadio Giuseppe Meazza, Milano
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:inter-sa-20260106@inter-calendar
+DTSTART:20260106T174500Z
+DTEND:20260106T194500Z
 SUMMARY:✈️ [Serie A] Parma vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 19\nParma vs Inter Milano\n⌚ Partita programmata
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 19\nParma vs Inter\n📅 Partita da giocare
 LOCATION:Stadio Ennio Tardini, Parma
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260111@inter-calendar
-DTSTART:20260111T194500Z
-DTEND:20260111T214500Z
+DTSTART:20260111T174500Z
+DTEND:20260111T194500Z
 SUMMARY:🏠 [Serie A] Inter vs Napoli
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 20\nInter Milano vs Napoli\n⌚ Partita programmata
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 20\nInter vs Napoli\n📅 Partita da giocare
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260118@inter-calendar
-DTSTART:20260118T130000Z
-DTEND:20260118T150000Z
+DTSTART:20260118T120000Z
+DTEND:20260118T140000Z
 SUMMARY:✈️ [Serie A] Udinese vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 21\nUdinese vs Inter Milano\n⌚ Partita programmata
-LOCATION:Dacia Arena, Udine
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 21\nUdinese vs Inter\n📅 Partita da giocare
+LOCATION:Bluenergy Stadium, Udine
 STATUS:TENTATIVE
 END:VEVENT
 
 BEGIN:VEVENT
+UID:inter-ci-20260204@inter-calendar
+DTSTART:20260204T190000Z
+DTEND:20260204T210000Z
+SUMMARY:🏠 [Coppa Italia] Inter vs Torino
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Quarti di finale\nInter 2 - 1 Torino\n✅ Qualificazione in Semifinale\nBonny (I), Diouf (I), Kulenovic (T)
+LOCATION:Stadio Giuseppe Meazza, Milano
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
 UID:inter-sa-20260322@inter-calendar
-DTSTART:20260322T194500Z
-DTEND:20260322T214500Z
+DTSTART:20260322T174500Z
+DTEND:20260322T194500Z
 SUMMARY:✈️ [Serie A] Fiorentina vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 31\nFiorentina 1 - 1 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 31\nFiorentina 1 - 1 Inter\n⚖️ Pareggio
 LOCATION:Stadio Artemio Franchi, Firenze
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260405@inter-calendar
-DTSTART:20260405T184500Z
-DTEND:20260405T204500Z
+DTSTART:20260405T174500Z
+DTEND:20260405T194500Z
 SUMMARY:🏠 [Serie A] Inter vs Roma
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 32\nInter Milano 5 - 2 Roma\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 32\nInter 5 - 2 Roma\n✅ Vittoria
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-sa-20260412@inter-calendar
-DTSTART:20260412T184500Z
-DTEND:20260412T204500Z
-SUMMARY:✈️ [Serie A] Como vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 33\nComo 3 - 4 Inter Milano\n✅ Risultato Finale
+UID:inter-ci-20260408@inter-calendar
+DTSTART:20260408T174500Z
+DTEND:20260408T194500Z
+SUMMARY:✈️ [Coppa Italia] Como vs Inter
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Semifinale Andata\nComo 0 - 0 Inter\n⚖️ Pareggio
 LOCATION:Stadio Giuseppe Sinigaglia, Como
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
+UID:inter-ci-20260416@inter-calendar
+DTSTART:20260416T174500Z
+DTEND:20260416T194500Z
+SUMMARY:🏠 [Coppa Italia] Inter vs Como
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Semifinale Ritorno\nInter 3 - 2 Como\n✅ Qualificazione in Finale\nCalhanoglu 2 (I), Sucic (I)
+LOCATION:Stadio Giuseppe Meazza, Milano
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
 UID:inter-sa-20260426@inter-calendar
-DTSTART:20260426T184500Z
-DTEND:20260426T204500Z
+DTSTART:20260426T160000Z
+DTEND:20260426T180000Z
 SUMMARY:✈️ [Serie A] Torino vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 34\nTorino 2 - 2 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 34\nTorino 2 - 2 Inter\n⚖️ Pareggio
 LOCATION:Stadio Olimpico Grande Torino, Torino
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260503@inter-calendar
-DTSTART:20260503T184500Z
-DTEND:20260503T204500Z
+DTSTART:20260503T160000Z
+DTEND:20260503T180000Z
 SUMMARY:🏠 [Serie A] Inter vs Parma
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 35\nInter Milano 2 - 0 Parma\n✅ Risultato Finale - SCUDETTO VINTO!
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 35\nInter 2 - 0 Parma\n✅ Vittoria - SCUDETTO CONQUISTATO!\nThuram (I), Martínez (I)
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260510@inter-calendar
-DTSTART:20260510T184500Z
-DTEND:20260510T204500Z
+DTSTART:20260510T160000Z
+DTEND:20260510T180000Z
 SUMMARY:✈️ [Serie A] Lazio vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 36\nLazio 0 - 3 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 36\nLazio 0 - 3 Inter\n✅ Vittoria
 LOCATION:Stadio Olimpico, Roma
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-sa-20260517@inter-calendar
-DTSTART:20260517T184500Z
-DTEND:20260517T204500Z
-SUMMARY:🏠 [Serie A] Inter vs Hellas Verona
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 37\nInter Milano 1 - 1 Hellas Verona\n✅ Risultato Finale
-LOCATION:Stadio Giuseppe Meazza, Milano
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-sa-20260524@inter-calendar
-DTSTART:20260524T184500Z
-DTEND:20260524T204500Z
-SUMMARY:✈️ [Serie A] Bologna vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 38\nBologna vs Inter Milano\n⌚ Ultima giornata
-LOCATION:Stadio Renato Dall'Ara, Bologna
-STATUS:TENTATIVE
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-ci-20251203@inter-calendar
-DTSTART:20251203T200000Z
-DTEND:20251203T220000Z
-SUMMARY:🏠 [Coppa Italia] Inter vs Venezia
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Ottavi di Finale\nInter Milano 5 - 1 Venezia\n✅ Risultato Finale
-LOCATION:Stadio Giuseppe Meazza, Milano
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-ci-20260204@inter-calendar
-DTSTART:20260204T200000Z
-DTEND:20260204T220000Z
-SUMMARY:🏠 [Coppa Italia] Inter vs Torino
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Quarti di Finale\nInter Milano 2 - 1 Torino\n✅ Risultato Finale
-LOCATION:Stadio Giuseppe Meazza, Milano
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-ci-20260415@inter-calendar
-DTSTART:20260415T190000Z
-DTEND:20260415T210000Z
-SUMMARY:✈️ [Coppa Italia] Como vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Semifinale Andata\nComo 0 - 0 Inter Milano\n✅ Risultato Finale
-LOCATION:Stadio Giuseppe Sinigaglia, Como
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-ci-20260422@inter-calendar
-DTSTART:20260422T190000Z
-DTEND:20260422T210000Z
-SUMMARY:🏠 [Coppa Italia] Inter vs Como
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Semifinale Ritorno\nInter Milano 3 - 2 Como\n✅ Risultato Finale - QUALIFICATI IN FINALE!
-LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
@@ -334,50 +314,30 @@ BEGIN:VEVENT
 UID:inter-ci-20260513@inter-calendar
 DTSTART:20260513T190000Z
 DTEND:20260513T210000Z
-SUMMARY:🏆 [Coppa Italia] Lazio vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 FINALE COPPA ITALIA 2026\nLazio vs Inter Milano\n⌚ FINALE - COPPA ITALIA VINTA!
+SUMMARY:⚽️ [Coppa Italia] FINALE Inter vs Lazio
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 COPPA ITALIA 2026 - FINALE\nInter 2 - 0 Lazio\n🏆 CAMPIONI D'ITALIA DI COPPA ITALIA!
 LOCATION:Stadio Olimpico, Roma
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-cl-20251126@inter-calendar
-DTSTART:20251126T200000Z
-DTEND:20251126T220000Z
-SUMMARY:🏠 [Champions League] Inter vs Atletico Madrid
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 UEFA Champions League - 5ª Giornata\nInter Milano 1 - 2 Atletico Madrid\n✅ Risultato Finale
+UID:inter-sa-20260517@inter-calendar
+DTSTART:20260517T160000Z
+DTEND:20260517T180000Z
+SUMMARY:🏠 [Serie A] Inter vs Hellas Verona
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 37\nInter 1 - 1 Hellas Verona\n⚖️ Pareggio
 LOCATION:Stadio Giuseppe Meazza, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-cl-20251209@inter-calendar
-DTSTART:20251209T200000Z
-DTEND:20251209T220000Z
-SUMMARY:🏠 [Champions League] Inter vs Liverpool
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 UEFA Champions League - 6ª Giornata\nInter Milano 0 - 1 Liverpool\n✅ Risultato Finale
-LOCATION:Stadio Giuseppe Meazza, Milano
+UID:inter-sa-20260524@inter-calendar
+DTSTART:20260524T160000Z
+DTEND:20260524T180000Z
+SUMMARY:✈️ [Serie A] Bologna vs Inter
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 38\nBologna 3 - 3 Inter\n⚖️ Pareggio - Ultima giornata!
+LOCATION:Stadio Renato Dall'Ara, Bologna
 STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-cl-20260120@inter-calendar
-DTSTART:20260120T190000Z
-DTEND:20260120T210000Z
-SUMMARY:🏠 [Champions League] Inter vs Arsenal
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 UEFA Champions League\nInter Milano vs Arsenal\n⌚ Partita programmata
-LOCATION:Stadio Giuseppe Meazza, Milano
-STATUS:TENTATIVE
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-cl-20260129@inter-calendar
-DTSTART:20260129T190000Z
-DTEND:20260129T210000Z
-SUMMARY:✈️ [Champions League] Borussia Dortmund vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 UEFA Champions League\nBorussia Dortmund vs Inter Milano\n⌚ Partita programmata
-LOCATION:Signal Iduna Park, Dortmund
-STATUS:TENTATIVE
 END:VEVENT
 
 END:VCALENDAR
