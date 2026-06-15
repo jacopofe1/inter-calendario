@@ -8,14 +8,14 @@ X-WR-CALDESC:Serie A | Champions League | Coppa Italia
 X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 COLOR:0070B5
-X-LAST-UPDATED:08/06/2026
+X-LAST-UPDATED:15/06/2026
 
 BEGIN:VEVENT
 UID:inter-sa-20250825@inter-calendar
 DTSTART:20250825T184500Z
 DTEND:20250825T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Torino
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 1\nInter Milano 5 - 0 Torino FC\n✅ Risultato Finale\nReti: Bastoni, Thuram (2), Lautaro Martinez, Bonny
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 1\nInter Milano 1 - 1 Torino FC\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -25,17 +25,17 @@ UID:inter-sa-20250831@inter-calendar
 DTSTART:20250831T184500Z
 DTEND:20250831T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Udinese
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 2\nInter Milano 1 - 2 Udinese Calcio\n✅ Risultato Finale\nReti: Dumfries (I); rimonta Udinese
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 2\nInter Milano 2 - 1 Udinese Calcio\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20250913@inter-calendar
-DTSTART:20250913T160000Z
-DTEND:20250913T180000Z
-SUMMARY:✈️ [Serie A] Juventus vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 3\nJuventus 2 - 1 Inter Milano 🔥\n✅ Risultato Finale\nReti: Kelly (J), Calhanoglu (I), Yildiz (J)
+DTSTART:20250913T140000Z
+DTEND:20250913T160000Z
+SUMMARY:✈️ [Serie A] Juventus vs Inter 🔥
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Derby d'Italia\nJuventus FC 1 - 2 Inter Milano 🔥\n✅ Risultato Finale
 LOCATION:Allianz Stadium, Torino
 STATUS:CONFIRMED
 END:VEVENT
@@ -45,75 +45,75 @@ UID:inter-sa-20250921@inter-calendar
 DTSTART:20250921T184500Z
 DTEND:20250921T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Sassuolo
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 4\nInter Milano vs Sassuolo\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 4\nInter Milano 3 - 0 Sassuolo Calcio\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20250928@inter-calendar
-DTSTART:20250928T160000Z
-DTEND:20250928T180000Z
+DTSTART:20250928T184500Z
+DTEND:20250928T204500Z
 SUMMARY:✈️ [Serie A] Cagliari vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 5\nCagliari Calcio vs Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 5\nCagliari Calcio 1 - 3 Inter Milano\n✅ Risultato Finale
 LOCATION:Unipol Domus, Cagliari
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251005@inter-calendar
-DTSTART:20251005T160000Z
-DTEND:20251005T180000Z
+DTSTART:20251005T184500Z
+DTEND:20251005T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Cremonese
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 6\nInter Milano vs Cremonese\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 6\nInter Milano 4 - 1 Cremonese\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251019@inter-calendar
-DTSTART:20251019T160000Z
-DTEND:20251019T180000Z
+DTSTART:20251019T184500Z
+DTEND:20251019T204500Z
 SUMMARY:✈️ [Serie A] Roma vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 7\nAS Roma vs Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 7\nAS Roma 1 - 2 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Olimpico, Roma
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251026@inter-calendar
-DTSTART:20251026T160000Z
-DTEND:20251026T180000Z
+DTSTART:20251026T184500Z
+DTEND:20251026T204500Z
 SUMMARY:✈️ [Serie A] Napoli vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 8\nSSC Napoli vs Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 8\nSSC Napoli 0 - 2 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Diego Armando Maradona, Napoli
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251029@inter-calendar
-DTSTART:20251029T194500Z
-DTEND:20251029T214500Z
+DTSTART:20251029T184500Z
+DTEND:20251029T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Fiorentina
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 9\nInter Milano vs ACF Fiorentina\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 9\nInter Milano 2 - 1 ACF Fiorentina\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251102@inter-calendar
-DTSTART:20251102T190000Z
-DTEND:20251102T210000Z
+DTSTART:20251102T184500Z
+DTEND:20251102T204500Z
 SUMMARY:✈️ [Serie A] Hellas Verona vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 10\nHellas Verona 1 - 2 Inter Milano\n✅ Risultato Finale\nReti: Zielinski (I), Giovane (V), autorete Frese (I)
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 10\nHellas Verona FC 0 - 3 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Marcantonio Bentegodi, Verona
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251109@inter-calendar
-DTSTART:20251109T190000Z
-DTEND:20251109T210000Z
+DTSTART:20251109T184500Z
+DTEND:20251109T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Lazio
 DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 11\nInter Milano 2 - 0 SS Lazio\n✅ Risultato Finale
 LOCATION:San Siro, Milano
@@ -122,10 +122,10 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20251123@inter-calendar
-DTSTART:20251123T190000Z
-DTEND:20251123T210000Z
-SUMMARY:🏠 [Serie A] Inter vs Milan
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 12\nInter Milano 0 - 1 AC Milan 🔥\n✅ Risultato Finale\nRete: Pulisic (M)
+DTSTART:20251123T184500Z
+DTEND:20251123T204500Z
+SUMMARY:🏠 [Serie A] Inter vs Milan 🔥
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Derby della Madonnina\nInter Milano 2 - 1 AC Milan 🔥\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -135,17 +135,17 @@ UID:inter-sa-20251130@inter-calendar
 DTSTART:20251130T184500Z
 DTEND:20251130T204500Z
 SUMMARY:✈️ [Serie A] Pisa vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 13\nPisa SC vs Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 13\nPisa Sporting Club 0 - 2 Inter Milano\n✅ Risultato Finale
 LOCATION:Arena Garibaldi, Pisa
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-ci-20251203@inter-calendar
-DTSTART:20251203T180000Z
-DTEND:20251203T200000Z
+DTSTART:20251203T194500Z
+DTEND:20251203T214500Z
 SUMMARY:🏠 [Coppa Italia] Inter vs Venezia
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Ottavi di Finale\nInter Milano 5 - 1 Venezia FC\n✅ Risultato Finale\nReti: Diouf (I), Esposito (I), Thuram (2) (I), altro (I); Venezia (V)
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Ottavi di Finale\nInter Milano 5 - 1 Venezia FC\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -155,38 +155,8 @@ UID:inter-sa-20251207@inter-calendar
 DTSTART:20251207T184500Z
 DTEND:20251207T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Como
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 14\nInter Milano vs Como 1907\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 14\nInter Milano 3 - 2 Como 1907\n✅ Risultato Finale
 LOCATION:San Siro, Milano
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-sa-20251214@inter-calendar
-DTSTART:20251214T184500Z
-DTEND:20251214T204500Z
-SUMMARY:✈️ [Serie A] Lecce vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 15\nUS Lecce vs Inter Milano\n✅ Risultato Finale
-LOCATION:Stadio Via del Mare, Lecce
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-sa-20251221@inter-calendar
-DTSTART:20251221T184500Z
-DTEND:20251221T204500Z
-SUMMARY:✈️ [Serie A] Genoa vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 16\nGenoa CFC vs Inter Milano\n✅ Risultato Finale
-LOCATION:Stadio Luigi Ferraris, Genova
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-sa-20251228@inter-calendar
-DTSTART:20251228T184500Z
-DTEND:20251228T204500Z
-SUMMARY:✈️ [Serie A] Atalanta vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 17\nAtalanta BC 1 - 1 Inter Milano\n✅ Risultato Finale
-LOCATION:Gewiss Stadium, Bergamo
 STATUS:CONFIRMED
 END:VEVENT
 
@@ -225,7 +195,7 @@ UID:inter-sa-20260114@inter-calendar
 DTSTART:20260114T184500Z
 DTEND:20260114T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Lecce
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 16 (recupero)\nInter Milano 1 - 0 US Lecce\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 16\nInter Milano 1 - 0 US Lecce\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -241,13 +211,13 @@ STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-ucl-20260120@inter-calendar
-DTSTART:20260120T200000Z
-DTEND:20260120T220000Z
+UID:inter-cl-20260120@inter-calendar
+DTSTART:20260120T190000Z
+DTEND:20260120T210000Z
 SUMMARY:🏠 [Champions League] Inter vs Arsenal
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 UEFA Champions League - League Phase\nInter Milano vs Arsenal FC
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Champions League - League Phase\nInter Milano 2 - 1 Arsenal FC\n✅ Risultato Finale
 LOCATION:San Siro, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
@@ -255,19 +225,19 @@ UID:inter-sa-20260123@inter-calendar
 DTSTART:20260123T184500Z
 DTEND:20260123T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Pisa
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 22\nInter Milano 6 - 2 Pisa SC\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 22\nInter Milano 6 - 2 Pisa Sporting Club\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:inter-ucl-20260128@inter-calendar
-DTSTART:20260128T200000Z
-DTEND:20260128T220000Z
+UID:inter-cl-20260128@inter-calendar
+DTSTART:20260128T190000Z
+DTEND:20260128T210000Z
 SUMMARY:✈️ [Champions League] Borussia Dortmund vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 UEFA Champions League - League Phase\nBorussia Dortmund vs Inter Milano
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Champions League - League Phase\nBorussia Dortmund 1 - 3 Inter Milano\n✅ Risultato Finale
 LOCATION:Signal Iduna Park, Dortmund
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
@@ -275,17 +245,17 @@ UID:inter-sa-20260201@inter-calendar
 DTSTART:20260201T160000Z
 DTEND:20260201T180000Z
 SUMMARY:✈️ [Serie A] Cremonese vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 23\nUS Cremonese 0 - 2 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 23\nCremonese 0 - 2 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Giovanni Zini, Cremona
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-ci-20260204@inter-calendar
-DTSTART:20260204T200000Z
-DTEND:20260204T220000Z
+DTSTART:20260204T194500Z
+DTEND:20260204T214500Z
 SUMMARY:🏠 [Coppa Italia] Inter vs Torino
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Quarti di Finale\nInter Milano 2 - 1 Torino FC\n✅ Risultato Finale\nReti: Bonny (I), Diouf (I), Kulenovic (T)
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Quarti di Finale\nInter Milano 2 - 1 Torino FC\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -295,7 +265,7 @@ UID:inter-sa-20260208@inter-calendar
 DTSTART:20260208T160000Z
 DTEND:20260208T180000Z
 SUMMARY:✈️ [Serie A] Sassuolo vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 24\nUS Sassuolo 0 - 2 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 24\nSassuolo Calcio 0 - 5 Inter Milano\n✅ Risultato Finale
 LOCATION:Mapei Stadium, Reggio Emilia
 STATUS:CONFIRMED
 END:VEVENT
@@ -304,8 +274,8 @@ BEGIN:VEVENT
 UID:inter-sa-20260214@inter-calendar
 DTSTART:20260214T184500Z
 DTEND:20260214T204500Z
-SUMMARY:🏠 [Serie A] Inter vs Juventus
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 25\nInter Milano 3 - 2 Juventus 🔥\n✅ Risultato Finale
+SUMMARY:🏠 [Serie A] Inter vs Juventus 🔥
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Derby d'Italia\nInter Milano 3 - 2 Juventus FC 🔥\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -334,18 +304,8 @@ BEGIN:VEVENT
 UID:inter-sa-20260308@inter-calendar
 DTSTART:20260308T184500Z
 DTEND:20260308T204500Z
-SUMMARY:✈️ [Serie A] Milan vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 28\nAC Milan 1 - 0 Inter Milano 🔥\n✅ Risultato Finale\nRete: Estupiñán 35'
-LOCATION:San Siro, Milano
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-sa-20260315@inter-calendar
-DTSTART:20260315T184500Z
-DTEND:20260315T204500Z
-SUMMARY:🏠 [Serie A] Inter vs Roma
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 29\nInter Milano 5 - 2 AS Roma\n✅ Risultato Finale
+SUMMARY:✈️ [Serie A] Milan vs Inter 🔥
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Derby della Madonnina\nAC Milan 1 - 0 Inter Milano 🔥\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
@@ -355,18 +315,18 @@ UID:inter-sa-20260322@inter-calendar
 DTSTART:20260322T194500Z
 DTEND:20260322T214500Z
 SUMMARY:✈️ [Serie A] Fiorentina vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 30\nACF Fiorentina 1 - 1 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 31\nACF Fiorentina 1 - 1 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Artemio Franchi, Firenze
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260329@inter-calendar
-DTSTART:20260329T194500Z
-DTEND:20260329T214500Z
-SUMMARY:✈️ [Serie A] Como vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 31\nComo 1907 3 - 4 Inter Milano\n✅ Risultato Finale
-LOCATION:Stadio Giuseppe Sinigaglia, Como
+DTSTART:20260329T184500Z
+DTEND:20260329T204500Z
+SUMMARY:🏠 [Serie A] Inter vs Roma
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 30\nInter Milano 5 - 2 AS Roma\n✅ Risultato Finale
+LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
@@ -374,18 +334,8 @@ BEGIN:VEVENT
 UID:inter-sa-20260405@inter-calendar
 DTSTART:20260405T184500Z
 DTEND:20260405T204500Z
-SUMMARY:🏠 [Serie A] Inter vs Cagliari
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 32\nInter Milano 3 - 0 Cagliari Calcio\n✅ Risultato Finale
-LOCATION:San Siro, Milano
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-ci-20260409@inter-calendar
-DTSTART:20260409T194500Z
-DTEND:20260409T214500Z
-SUMMARY:✈️ [Coppa Italia] Como vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Semifinale Andata\nComo 1907 0 - 0 Inter Milano\n✅ Risultato Finale
+SUMMARY:✈️ [Serie A] Como vs Inter
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 32\nComo 1907 3 - 4 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Giuseppe Sinigaglia, Como
 STATUS:CONFIRMED
 END:VEVENT
@@ -394,88 +344,88 @@ BEGIN:VEVENT
 UID:inter-sa-20260412@inter-calendar
 DTSTART:20260412T184500Z
 DTEND:20260412T204500Z
-SUMMARY:✈️ [Serie A] Bologna vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 33\nBologna FC vs Inter Milano\n✅ Risultato Finale
-LOCATION:Stadio Renato Dall'Ara, Bologna
+SUMMARY:🏠 [Serie A] Inter vs Cagliari
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 33\nInter Milano 3 - 0 Cagliari Calcio\n✅ Risultato Finale
+LOCATION:San Siro, Milano
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:inter-ci-20260415@inter-calendar
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+SUMMARY:✈️ [Coppa Italia] Como vs Inter
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Semifinale Andata\nComo 1907 0 - 0 Inter Milano\n✅ Risultato Finale
+LOCATION:Stadio Giuseppe Sinigaglia, Como
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260419@inter-calendar
-DTSTART:20260419T160000Z
-DTEND:20260419T180000Z
-SUMMARY:🏠 [Serie A] Inter vs Como
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 34\nInter Milano 3 - 2 Como 1907\n✅ Risultato Finale
-LOCATION:San Siro, Milano
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-ci-20260423@inter-calendar
-DTSTART:20260423T194500Z
-DTEND:20260423T214500Z
-SUMMARY:🏠 [Coppa Italia] Inter vs Como
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Semifinale Ritorno\nInter Milano 3 - 2 Como 1907\n✅ Risultato Finale (qualificata Inter)\nRimonta spettacolare dopo 0-0 dell'andata
-LOCATION:San Siro, Milano
-STATUS:CONFIRMED
-END:VEVENT
-
-BEGIN:VEVENT
-UID:inter-sa-20260426@inter-calendar
-DTSTART:20260426T160000Z
-DTEND:20260426T180000Z
+DTSTART:20260419T184500Z
+DTEND:20260419T204500Z
 SUMMARY:✈️ [Serie A] Torino vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 35\nTorino FC 2 - 2 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 34\nTorino FC 2 - 2 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Olimpico Grande Torino, Torino
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
+UID:inter-ci-20260422@inter-calendar
+DTSTART:20260422T190000Z
+DTEND:20260422T210000Z
+SUMMARY:🏠 [Coppa Italia] Inter vs Como
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - Semifinale Ritorno\nInter Milano 3 - 2 Como 1907\n✅ Risultato Finale (qualificata 3-2 complessivo)
+LOCATION:San Siro, Milano
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
 UID:inter-sa-20260503@inter-calendar
-DTSTART:20260503T124500Z
-DTEND:20260503T144500Z
+DTSTART:20260503T184500Z
+DTEND:20260503T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Parma
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 36\nInter Milano 2 - 0 Parma Calcio\n✅ Risultato Finale\n🏆 CAMPIONI D'ITALIA! Scudetto conquistato con 3 giornate d'anticipo\nReti: Thuram 45+1', Mkhitaryan 80'
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 35\nInter Milano 2 - 0 Parma Calcio\n✅ Risultato Finale - CAMPIONI D'ITALIA!
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260510@inter-calendar
-DTSTART:20260510T160000Z
-DTEND:20260510T180000Z
+DTSTART:20260510T184500Z
+DTEND:20260510T204500Z
 SUMMARY:✈️ [Serie A] Lazio vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 37\nSS Lazio 0 - 2 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 36\nSS Lazio 0 - 3 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Olimpico, Roma
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-ci-20260513@inter-calendar
-DTSTART:20260513T194500Z
-DTEND:20260513T214500Z
-SUMMARY:⚫️🔵 [Coppa Italia] Inter vs Lazio
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Coppa Italia - FINALE\nInter Milano 2 - 0 SS Lazio\n✅ Risultato Finale\n🏆 COPPA ITALIA VINTA! 10° trofeo nella storia nerazzurra
+DTSTART:20260513T190000Z
+DTEND:20260513T210000Z
+SUMMARY:🏆 [Coppa Italia] Inter vs Lazio
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 FINALE COPPA ITALIA 2026\nInter Milano 2 - 0 SS Lazio\n🏆 CAMPIONI D'ITALIA DI COPPA ITALIA!
 LOCATION:Stadio Olimpico, Roma
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260517@inter-calendar
-DTSTART:20260517T160000Z
-DTEND:20260517T180000Z
+DTSTART:20260517T184500Z
+DTEND:20260517T204500Z
 SUMMARY:🏠 [Serie A] Inter vs Hellas Verona
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 37\nInter Milano 1 - 1 Hellas Verona\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 37\nInter Milano 1 - 1 Hellas Verona FC\n✅ Risultato Finale
 LOCATION:San Siro, Milano
 STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
 UID:inter-sa-20260524@inter-calendar
-DTSTART:20260524T160000Z
-DTEND:20260524T180000Z
+DTSTART:20260524T184500Z
+DTEND:20260524T204500Z
 SUMMARY:✈️ [Serie A] Bologna vs Inter
-DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 38\nBologna FC 3 - 3 Inter Milano\n✅ Risultato Finale
+DESCRIPTION:⚫️🔵 DAI NOI!\n\n🏆 Serie A - Giornata 38 - Finale\nBologna FC 3 - 3 Inter Milano\n✅ Risultato Finale
 LOCATION:Stadio Renato Dall'Ara, Bologna
 STATUS:CONFIRMED
 END:VEVENT
